@@ -11,3 +11,5 @@ math_models.py contains some math functions.
 model.py includes the neural networks used for the beam tracking via sub-6 GHz CSI in the co-located scenario.
 
 model_fusion.py includes the neural networks used for the beam tracking via sub-6 GHz CSI in the HetNet scenario.
+
+The datasets are uploaded on my Google drive, i.e., https://drive.google.com/file/d/1R--q5pVpFIB4Uu3sl_StcopnIeruocX8/view?usp=drive_link
